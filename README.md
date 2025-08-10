@@ -1,13 +1,20 @@
-# My Python Learning Projects
+# My Python Learning Journey
 
-This repository contains my first Python exercises and small projects.  
-The goal is to practice the basics of programming while improving my skills step-by-step.  
+Welcome to my repository!  
+Here I share my first steps in programming with Python, starting from scratch and learning through small exercises and projects.
 
-## Contents
-- Basic math operations
+## 📂 Contents
+- Basic calculations and formulas
 - Random number generation
-- Simple input/output programs
-- Beginner exercises
+- Input and output programs
+- Beginner-friendly exercises
 
-## About me
-I'm a beginner in Python programming and I'm building this repository as part of my learning journey.  
+## 🎯 Goal
+My main goal is to practice and improve my Python skills consistently, building a solid foundation for future, more advanced projects.
+
+## 👨‍💻 About Me
+I'm starting my journey in programming with Python and plan to expand my skills into building apps, automation scripts, and more. This repository will grow as I learn new things.
+
+---
+
+*This is just the beginning — stay tuned for more projects!*
